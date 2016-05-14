@@ -1,5 +1,5 @@
 # towerdefense
-Tower defense
+Yes: Tower defense
 
 #Introduction 
 This is a game that we're trying to make. Haven't gotten too far yet, but we're tryin'!
@@ -11,4 +11,4 @@ Tower defense
 Tower defense game. Fun!
 
 #Common Sense Media Rating
-35+ for implied rape and fascism
+35+ for implied rape, fascism
